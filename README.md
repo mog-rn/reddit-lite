@@ -7,6 +7,8 @@
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/reddit-lite)](https://github.com/Mogakamo/reddit-lite/blob/main/LICENSE)
 ![Codecov](https://img.shields.io/codecov/c/github/Mogakamo/reddit-lite)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Mogakamo/reddit-lite)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/Mogakamo/reddit-lite)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mogakamo/reddit-lite)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is an unofficial lite app version built with React.
 ## Contributors ✨
