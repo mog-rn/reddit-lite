@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Mogakamo",
+      "name": "Mogaka Amos N",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61131314?v=4",
+      "profile": "https://github.com/Mogakamo",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "reddit-lite",
+  "projectOwner": "Mogakamo",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
