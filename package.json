@@ -92,7 +92,7 @@
     ]
   },
   "jest": {
-    "rootDir": " ",
+    "verbose": true,
     "roots": [
       "<rootDir>/src"
     ],
