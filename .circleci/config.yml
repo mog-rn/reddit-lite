@@ -30,6 +30,7 @@ jobs:
           pkg-manager: yarn 
       - run:
            name: Run tests
+           #make it work 
            command: yarn run test
 
 workflows:
