@@ -5,7 +5,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/reddit-lite)](https://github.com/Mogakamo/reddit-lite/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/reddit-lite)](https://github.com/Mogakamo/reddit-lite/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/reddit-lite)](https://github.com/Mogakamo/reddit-lite/blob/main/LICENSE)
-
+![Codecov](https://img.shields.io/codecov/c/github/Mogakamo/reddit-lite)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Mogakamo/reddit-lite)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is an unofficial lite app version built with React.
 ## Contributors ✨
