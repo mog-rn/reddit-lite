@@ -1,6 +1,11 @@
 # reddit-lite
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![GitHub issues](https://img.shields.io/github/issues/Mogakamo/reddit-lite)](https://github.com/Mogakamo/reddit-lite/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Mogakamo/reddit-lite)](https://github.com/Mogakamo/reddit-lite/network)
+[![GitHub stars](https://img.shields.io/github/stars/Mogakamo/reddit-lite)](https://github.com/Mogakamo/reddit-lite/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Mogakamo/reddit-lite)](https://github.com/Mogakamo/reddit-lite/blob/main/LICENSE)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is an unofficial lite app version built with React.
 ## Contributors ✨
