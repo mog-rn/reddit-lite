@@ -31,7 +31,7 @@ jobs:
       - run:
            name: Run tests
            #make it work 
-           command: yarn test 
+           command: npm test 
 
 workflows:
   # Below is the definition of your workflow.
