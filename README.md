@@ -10,6 +10,7 @@
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Mogakamo/reddit-lite)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mogakamo/reddit-lite)
 ![Lines of code](https://img.shields.io/tokei/lines/github/mogakamo/reddit-lite)
+![AppVeyor](https://img.shields.io/appveyor/build/mogakamo/reddit-lite)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is an unofficial lite app version built with React.
 ## Contributors ✨
